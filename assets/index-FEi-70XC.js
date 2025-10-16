@@ -14377,13 +14377,13 @@ const U0 =
   Y0 = "/assets/video-loop-DBEXuKQY.mp4",
   Cm = [
     { title: "Home", route: "#home" },
-    { title: "Who is Yzao?", route: "#who-is-yzao" },
+    { title: "Who is Snakiu?", route: "#who-is-Snakiu" },
     { title: "PFP Generator", route: "#pfp-generator" },
     { title: "Gallery", route: "#gallery" },
   ],
-  Ml = { contractAddress: "0xf90b021f8ae5de5f0551e4171eb1163defaf4444" },
+  Ml = { contractAddress: "0x44444444" },
   wf = {
-    x: "https://x.com/yzaobsc",
+    x: "https://x.com/",
     fourmeme: `${`https://four.meme/token/${Ml.contractAddress}`}`,
     dexscreener: `${`https://dexscreener.com/bsc/${Ml.contractAddress}`}`,
   };
@@ -14414,19 +14414,19 @@ function w0() {
               "h-full w-full object-cover pointer-events-none select-none",
           }),
           A.jsx("div", {
-            className: "absolute inset-0 bg-yzao-yellow-main/20",
+            className: "absolute inset-0 bg-Snakiu-yellow-main/20",
           }),
         ],
       }),
       A.jsx("div", {
         className:
-          "pointer-events-none absolute bottom-2 lg:bottom-0 left-0 right-0 h-[6px] bg-yzao-black",
+          "pointer-events-none absolute bottom-2 lg:bottom-0 left-0 right-0 h-[6px] bg-Snakiu-black",
       }),
       A.jsx("div", {
         className: "absolute lg:bottom-[0vh] bottom-2 left-0 right-0 z-10",
         children: A.jsx("div", {
           className:
-            "mx-auto w-fit rounded-t-2xl bg-yzao-black lg:px-5 lg:py-2",
+            "mx-auto w-fit rounded-t-2xl bg-Snakiu-black lg:px-5 lg:py-2",
           children: A.jsxs("div", {
             className: "flex items-center gap-3",
             children: [
@@ -14437,7 +14437,7 @@ function w0() {
                 className: "inline-flex",
                 children: A.jsx("span", {
                   className:
-                    "w-12 h-12 rounded-[12px] bg-yzao-yellow-main border-4 border-yzao-black inline-flex items-center justify-center",
+                    "w-12 h-12 rounded-[12px] bg-Snakiu-yellow-main border-4 border-Snakiu-black inline-flex items-center justify-center",
                   children: A.jsx("img", {
                     src: U0,
                     alt: "X",
@@ -14452,7 +14452,7 @@ function w0() {
                 className: "inline-flex",
                 children: A.jsx("span", {
                   className:
-                    "w-12 h-12 rounded-[12px] bg-yzao-yellow-main border-4 border-yzao-black inline-flex items-center justify-center",
+                    "w-12 h-12 rounded-[12px] bg-Snakiu-yellow-main border-4 border-Snakiu-black inline-flex items-center justify-center",
                   children: A.jsx("img", {
                     src: H0,
                     alt: "Fourmeme",
@@ -14467,7 +14467,7 @@ function w0() {
                 className: "inline-flex",
                 children: A.jsx("span", {
                   className:
-                    "w-12 h-12 rounded-[12px] bg-yzao-yellow-main border-4 border-yzao-black inline-flex items-center justify-center",
+                    "w-12 h-12 rounded-[12px] bg-Snakiu-yellow-main border-4 border-Snakiu-black inline-flex items-center justify-center",
                   children: A.jsx("img", {
                     src: B0,
                     alt: "DexScreener",
@@ -14489,7 +14489,7 @@ function oi({ text: c, speedSeconds: o = 20 }) {
     className: "w-full",
     children: [
       A.jsx("div", {
-        className: "overflow-hidden bg-yzao-black text-yzao-yellow-main",
+        className: "overflow-hidden bg-Snakiu-black text-Snakiu-yellow-main",
         children: A.jsx("div", {
           className: "whitespace-nowrap",
           style: r,
@@ -14500,7 +14500,7 @@ function oi({ text: c, speedSeconds: o = 20 }) {
           }),
         }),
       }),
-      A.jsx("div", { className: "h-[4px] bg-yzao-black" }),
+      A.jsx("div", { className: "h-[4px] bg-Snakiu-black" }),
     ],
   });
 }
@@ -14512,65 +14512,65 @@ function Z0({ children: c }) {
       () => ({
         en: {
           "nav.home": "Home",
-          "nav.who": "Who is Yzao?",
+          "nav.who": "Who is Snakiu?",
           "nav.gallery": "Gallery",
           "nav.pfp": "PFP Generator",
-          "button.buy": "BUY $YZAO",
+          "button.buy": "BUY $Snakiu",
           "button.copy.copied": "Copied!",
           "footer.text":
-            "©️ 2025 YZAO — The snake moves in silence. Beware of fakes.",
+            "©️ 2025 Snakiu — The snake moves in silence. Beware of fakes.",
           "gallery.title": "Gallery",
           "pfp.title": "PFP Generator",
           "who.p1":
-            "Yzao is a serpent of fortune, born under the sign of the Wood Snake — 木蛇灵 (mù shé líng). It crawls between memes and myths, whispering secrets of 运气 (yùnqì – luck) and 混沌 (hùndùn – chaos) into every wallet it touches.",
+            "Snakiu is a serpent of fortune, born under the sign of the Wood Snake — 木蛇灵 (mù shé líng). It crawls between memes and myths, whispering secrets of 运气 (yùnqì – luck) and 混沌 (hùndùn – chaos) into every wallet it touches.",
           "who.p2":
-            "Yzao isn't just a token, it's a 预言 (yùyán – prophecy) written in the soil of BSC. Once you hear the hiss 嘶 — 蛇已醒来 (sī — the serpent has awakened).",
+            "Snakiu isn't just a token, it's a 预言 (yùyán – prophecy) written in the soil of BSC. Once you hear the hiss 嘶 — 蛇已醒来 (sī — the serpent has awakened).",
           "faq.title": "Frequently Asked Question",
-          "faq.q1": "How do I buy $YZAO?",
+          "faq.q1": "How do I buy $Snakiu?",
           "faq.a1":
-            "Go to FourMemes or PancakeSwap. Connect your wallet (MetaMask or Trust Wallet), switch to BNB Chain, and swap BNB → $YZAO. Always double-check the official contract address before trading.",
+            "Go to FourMemes or PancakeSwap. Connect your wallet (MetaMask or Trust Wallet), switch to BNB Chain, and swap BNB → $Snakiu. Always double-check the official contract address before trading.",
           "faq.q2": "What do I need before buying?",
           "faq.a2":
             "You'll need BNB for both the swap and gas fees. Make sure your wallet is set to BSC Mainnet and you have enough balance to cover the transaction.",
-          "faq.q3": "Where can I track $YZAO price and chart?",
+          "faq.q3": "Where can I track $Snakiu price and chart?",
           "faq.a3":
-            "You can follow $YZAO's live chart and market activity directly on DexScreener or FourMemes. Bookmark the official links to avoid fake listings.",
-          "faq.q4": "Can I trade $YZAO anywhere else?",
+            "You can follow $Snakiu's live chart and market activity directly on DexScreener or FourMemes. Bookmark the official links to avoid fake listings.",
+          "faq.q4": "Can I trade $Snakiu anywhere else?",
           "faq.a4":
-            "For now, $YZAO trades exclusively on PancakeSwap and FourMemes. More listings may slither in as the cult grows.",
+            "For now, $Snakiu trades exclusively on PancakeSwap and FourMemes. More listings may slither in as the cult grows.",
           "pfp.note":
-            "The PFP generator will continue to evolve as the project grows — new assets and traits will be added over time to reflect Yzao’s journey.",
+            "The PFP generator will continue to evolve as the project grows — new assets and traits will be added over time to reflect Snakiu’s journey.",
           "lang.switch": "中文",
         },
         zh: {
           "nav.home": "首页",
-          "nav.who": "谁是Yzao？",
+          "nav.who": "谁是Snakiu？",
           "nav.gallery": "画廊",
           "nav.pfp": "头像生成器",
-          "button.buy": "购买 $YZAO",
+          "button.buy": "购买 $Snakiu",
           "button.copy.copied": "已复制!",
-          "footer.text": "©️ 2025 YZAO — 蛇行无声，谨防假冒。",
+          "footer.text": "©️ 2025 Snakiu — 蛇行无声，谨防假冒。",
           "gallery.title": "画廊",
           "pfp.title": "头像生成器",
           "who.p1":
-            "Yzao 是一条象征财富的灵蛇，出生于“土蛇之灵”。它穿梭于梗与神话之间，把关于“运气”和“混沌”的低语注入每一个被它触及的钱包。",
+            "Snakiu 是一条象征财富的灵蛇，出生于“土蛇之灵”。它穿梭于梗与神话之间，把关于“运气”和“混沌”的低语注入每一个被它触及的钱包。",
           "who.p2":
-            "Yzao 不只是代币，它是一则写在 BSC 土壤中的预言。当你听到嘶嘶声——蛇已苏醒。",
+            "Snakiu 不只是代币，它是一则写在 BSC 土壤中的预言。当你听到嘶嘶声——蛇已苏醒。",
           "faq.title": "常见问题",
-          "faq.q1": "如何购买 $YZAO？",
+          "faq.q1": "如何购买 $Snakiu？",
           "faq.a1":
-            "前往 FourMemes 或 PancakeSwap。连接钱包（MetaMask/Trust Wallet），切换至 BNB 链，用 BNB 交换 $YZAO。交易前务必核对官方合约地址。",
+            "前往 FourMemes 或 PancakeSwap。连接钱包（MetaMask/Trust Wallet），切换至 BNB 链，用 BNB 交换 $Snakiu。交易前务必核对官方合约地址。",
           "faq.q2": "购买前需要准备什么？",
           "faq.a2":
             "你需要 BNB 作为兑换与手续费。请确保钱包网络为 BSC 主网且余额充足以支付交易费用。",
-          "faq.q3": "在哪里查看 $YZAO 价格和图表？",
+          "faq.q3": "在哪里查看 $Snakiu 价格和图表？",
           "faq.a3":
-            "你可在 DexScreener 或 FourMemes 实时关注 $YZAO 的价格与市场动向。收藏官方链接以避免假页面。",
-          "faq.q4": "还能在哪里交易 $YZAO？",
+            "你可在 DexScreener 或 FourMemes 实时关注 $Snakiu 的价格与市场动向。收藏官方链接以避免假页面。",
+          "faq.q4": "还能在哪里交易 $Snakiu？",
           "faq.a4":
             "目前仅在 PancakeSwap 与 FourMemes 交易。随着社群壮大，更多上架将逐步到来。",
           "pfp.note":
-            "YZAO 头像生成器会持续进化——将不断加入新素材与特征，记录 Yzao 的旅程。",
+            "Snakiu 头像生成器会持续进化——将不断加入新素材与特征，记录 Snakiu 的旅程。",
           "lang.switch": "EN",
         },
       }),
@@ -14587,18 +14587,18 @@ function Z0({ children: c }) {
 function L0() {
   const { t: c } = _.useContext(Nl);
   return A.jsxs("section", {
-    id: "who-is-yzao",
+    id: "who-is-Snakiu",
     className: "relative w-full",
     children: [
       A.jsxs("div", {
         className: "w-full lg:mt-2",
         children: [
           A.jsx(oi, {
-            text: "BUY $YZAO or 事后后悔 /// No luck? 没关系, YZAO 你! /// Your wallet say 谢谢 after YZAO /// Follow the luck, 跟着 YZAO! /// YZAO make your bag 飞起来!",
+            text: "BUY $Snakiu or 事后后悔 /// No luck? 没关系, Snakiu 你! /// Your wallet say 谢谢 after Snakiu /// Follow the luck, 跟着 Snakiu! /// Snakiu make your bag 飞起来!",
             speedSeconds: 22,
           }),
           A.jsx("div", { className: "h-2" }),
-          A.jsx("div", { className: "w-full h-[6px] bg-yzao-black" }),
+          A.jsx("div", { className: "w-full h-[6px] bg-Snakiu-black" }),
         ],
       }),
       A.jsxs("div", {
@@ -14611,19 +14611,19 @@ function L0() {
           }),
           A.jsx("p", {
             className:
-              "text-yzao-black font-medium font-helvetica lg:text-4xl sm:text-[18px] lg:leading-10 tracking-tighter",
+              "text-Snakiu-black font-medium font-helvetica lg:text-4xl sm:text-[18px] lg:leading-10 tracking-tighter",
             children: c("who.p1"),
           }),
           A.jsx("p", {
             className:
-              "mt-6 text-yzao-black font-helvetica font-medium lg:text-4xl sm:text-[18px] lg:leading-10 tracking-tighter",
+              "mt-6 text-Snakiu-black font-helvetica font-medium lg:text-4xl sm:text-[18px] lg:leading-10 tracking-tighter",
             children: c("who.p2"),
           }),
         ],
       }),
       A.jsx("div", {
         className:
-          "pointer-events-none absolute bottom-0 left-0 right-0 h-[6px] bg-yzao-black",
+          "pointer-events-none absolute bottom-0 left-0 right-0 h-[6px] bg-Snakiu-black",
       }),
     ],
   });
@@ -14686,16 +14686,16 @@ function eg() {
         className: "w-full mt-2",
         children: [
           A.jsx(oi, {
-            text: "BUY $YZAO or 事后后悔 /// No luck? 没关系, YZAO 你! /// Your wallet say 谢谢 after YZAO /// Follow the luck, 跟着 YZAO! /// YZAO make your bag 飞起来!",
+            text: "BUY $Snakiu or 事后后悔 /// No luck? 没关系, Snakiu 你! /// Your wallet say 谢谢 after Snakiu /// Follow the luck, 跟着 Snakiu! /// Snakiu make your bag 飞起来!",
             speedSeconds: 22,
           }),
           A.jsx("div", { className: "h-2" }),
-          A.jsx("div", { className: "w-full h-[6px] bg-yzao-black" }),
+          A.jsx("div", { className: "w-full h-[6px] bg-Snakiu-black" }),
         ],
       }),
       A.jsx("h2", {
         className:
-          "font-manatee-solid text-yzao-black text-[48px] sm:text-[64px] lg:text-[80px] leading-none text-center my-8",
+          "font-manatee-solid text-Snakiu-black text-[48px] sm:text-[64px] lg:text-[80px] leading-none text-center my-8",
         children: c("gallery.title"),
       }),
       A.jsxs("div", {
@@ -14708,7 +14708,7 @@ function eg() {
       }),
       A.jsx("div", {
         className:
-          "pointer-events-none absolute lg:bottom-[-3vh] bottom-2 left-0 right-0 h-[6px] bg-yzao-black",
+          "pointer-events-none absolute lg:bottom-[-3vh] bottom-2 left-0 right-0 h-[6px] bg-Snakiu-black",
       }),
     ],
   });
@@ -14716,9 +14716,9 @@ function eg() {
 const lg = [
   {
     id: 1,
-    question: "How do I buy $YZAO?",
+    question: "How do I buy $Snakiu?",
     answer:
-      "Go to FourMemes or PancakeSwap. Connect your wallet (MetaMask or Trust Wallet), switch to BNB Chain, and swap BNB → $YZAO. Always double-check the official contract address before trading.",
+      "Go to FourMemes or PancakeSwap. Connect your wallet (MetaMask or Trust Wallet), switch to BNB Chain, and swap BNB → $Snakiu. Always double-check the official contract address before trading.",
   },
   {
     id: 2,
@@ -14728,15 +14728,15 @@ const lg = [
   },
   {
     id: 3,
-    question: "Where can I track $YZAO price and chart?",
+    question: "Where can I track $Snakiu price and chart?",
     answer:
-      "You can follow $YZAO's live chart and market activity directly on DexScreener or FourMeme. Bookmark the official links to avoid fake listings.",
+      "You can follow $Snakiu's live chart and market activity directly on DexScreener or FourMeme. Bookmark the official links to avoid fake listings.",
   },
   {
     id: 4,
-    question: "Can I trade $YZAO anywhere else?",
+    question: "Can I trade $Snakiu anywhere else?",
     answer:
-      "For now, $YZAO trades exclusively on PancakeSwap and FourMeme. More listings may slither in as the cult grows.",
+      "For now, $Snakiu trades exclusively on PancakeSwap and FourMeme. More listings may slither in as the cult grows.",
   },
 ];
 function ag() {
@@ -14762,16 +14762,16 @@ function ag() {
         className: "w-full",
         children: [
           A.jsx(oi, {
-            text: "BUY $YZAO or 事后后悔 /// No luck? 没关系, YZAO 你! /// Your wallet say 谢谢 after YZAO /// Follow the luck, 跟着 YZAO! /// YZAO make your bag 飞起来!",
+            text: "BUY $Snakiu or 事后后悔 /// No luck? 没关系, Snakiu 你! /// Your wallet say 谢谢 after Snakiu /// Follow the luck, 跟着 Snakiu! /// Snakiu make your bag 飞起来!",
             speedSeconds: 22,
           }),
           A.jsx("div", { className: "h-2" }),
-          A.jsx("div", { className: "w-full h-[6px] bg-yzao-black" }),
+          A.jsx("div", { className: "w-full h-[6px] bg-Snakiu-black" }),
         ],
       }),
       A.jsx("h2", {
         className:
-          "font-manatee-solid text-yzao-black text-[30px] sm:text-[64px] lg:text-[80px] leading-none text-center my-8 mx-20 lg:mx-0",
+          "font-manatee-solid text-Snakiu-black text-[30px] sm:text-[64px] lg:text-[80px] leading-none text-center my-8 mx-20 lg:mx-0",
         children: c("faq.title"),
       }),
       A.jsx("div", {
@@ -14784,7 +14784,7 @@ function ag() {
               children: [
                 A.jsx("button", {
                   onClick: () => v(b.id),
-                  className: `w-full bg-yzao-black text-yzao-yellow-main font-helvetica font-bold text-lg sm:text-xl px-6 py-4 rounded-lg transition-all duration-300 hover:bg-opacity-90 cursor-pointer ${
+                  className: `w-full bg-Snakiu-black text-Snakiu-yellow-main font-helvetica font-bold text-lg sm:text-xl px-6 py-4 rounded-lg transition-all duration-300 hover:bg-opacity-90 cursor-pointer ${
                     f === b.id ? "rounded-b-none" : ""
                   }`,
                   children: b.question,
@@ -14792,7 +14792,7 @@ function ag() {
                 f === b.id &&
                   A.jsx("div", {
                     className:
-                      "bg-yzao-answer text-white px-6 py-4 rounded-b-lg border-t-0 animate-fadeIn",
+                      "bg-Snakiu-answer text-white px-6 py-4 rounded-b-lg border-t-0 animate-fadeIn",
                     children: A.jsx("p", {
                       className:
                         "font-helvetica text-base sm:text-lg leading-relaxed",
@@ -14927,7 +14927,7 @@ function Qg() {
     const T = r.current;
     if (!T) return;
     const B = document.createElement("a");
-    (B.download = "yzao-pfp.png"),
+    (B.download = "Snakiu-pfp.png"),
       (B.href = T.toDataURL("image/png")),
       B.click();
   }
@@ -14939,23 +14939,23 @@ function Qg() {
         className: "w-full mt-2",
         children: [
           A.jsx(oi, {
-            text: "BUY $YZAO or 事后后悔 /// No luck? 没关系, YZAO 你! /// Your wallet say 谢谢 after YZAO /// Follow the luck, 跟着 YZAO! /// YZAO make your bag 飞起来!",
+            text: "BUY $Snakiu or 事后后悔 /// No luck? 没关系, Snakiu 你! /// Your wallet say 谢谢 after Snakiu /// Follow the luck, 跟着 Snakiu! /// Snakiu make your bag 飞起来!",
             speedSeconds: 22,
           }),
           A.jsx("div", { className: "h-2" }),
-          A.jsx("div", { className: "w-full h-[6px] bg-yzao-black" }),
+          A.jsx("div", { className: "w-full h-[6px] bg-Snakiu-black" }),
         ],
       }),
       A.jsx("h2", {
         className:
-          "font-manatee-solid text-yzao-black text-[40px] sm:text-[64px] lg:text-[80px] leading-none text-center my-6",
+          "font-manatee-solid text-Snakiu-black text-[40px] sm:text-[64px] lg:text-[80px] leading-none text-center my-6",
         children: c("pfp.title"),
       }),
       A.jsx("div", {
         className: "lg:mx-auto lg:w-full lg:max-w-[500px] mx-20",
         children: A.jsx("div", {
           className:
-            "relative aspect-square w-full overflow-hidden rounded-xl bg-yzao-yellow-main lg:border-4 border-2 border-yzao-black",
+            "relative aspect-square w-full overflow-hidden rounded-xl bg-Snakiu-yellow-main lg:border-4 border-2 border-Snakiu-black",
           children: A.jsx("canvas", {
             ref: r,
             className: "absolute inset-0 h-full w-full",
@@ -14969,13 +14969,13 @@ function Qg() {
           A.jsx("button", {
             onClick: h,
             className:
-              "rounded-[18px] bg-yzao-black px-5 py-3 lg:py-4 lg:px-10 font-manatee-solid text-yzao-yellow-main text-2xl sm:text-3xl cursor-pointer",
+              "rounded-[18px] bg-Snakiu-black px-5 py-3 lg:py-4 lg:px-10 font-manatee-solid text-Snakiu-yellow-main text-2xl sm:text-3xl cursor-pointer",
             children: c("Randomize") || "Randomize",
           }),
           A.jsx("button", {
             onClick: N,
             className:
-              "rounded-[18px] bg-yzao-black px-5 py-3 lg:py-4 lg:px-10 font-manatee-solid text-yzao-yellow-main text-2xl sm:text-3xl cursor-pointer",
+              "rounded-[18px] bg-Snakiu-black px-5 py-3 lg:py-4 lg:px-10 font-manatee-solid text-Snakiu-yellow-main text-2xl sm:text-3xl cursor-pointer",
             children: c("Download") || "Download",
           }),
         ],
@@ -14996,15 +14996,15 @@ function Qg() {
                   onClick: () => b((H) => (H === T ? null : T)),
                   "aria-expanded": v === T,
                   className:
-                    "inline-flex w-full items-center justify-between bg-yzao-black px-4 py-3 sm:px-5 sm:py-4 lg:p-5 cursor-pointer",
+                    "inline-flex w-full items-center justify-between bg-Snakiu-black px-4 py-3 sm:px-5 sm:py-4 lg:p-5 cursor-pointer",
                   children: [
                     A.jsx("h3", {
                       className:
-                        "font-manatee-solid text-yzao-yellow-main text-[22px] sm:text-[26px] lg:text-[28px] leading-none",
+                        "font-manatee-solid text-Snakiu-yellow-main text-[22px] sm:text-[26px] lg:text-[28px] leading-none",
                       children: T,
                     }),
                     A.jsx("span", {
-                      className: `ml-3 h-3 w-3 border-b-2 border-r-2 border-yzao-yellow-main transition-transform ${
+                      className: `ml-3 h-3 w-3 border-b-2 border-r-2 border-Snakiu-yellow-main transition-transform ${
                         v === T ? "rotate-45" : "-rotate-45"
                       }`,
                     }),
@@ -15021,8 +15021,8 @@ function Qg() {
                           onClick: () => S(T, Z),
                           className: `relative h-12 w-12 sm:h-14 sm:w-14 overflow-hidden rounded-md border-2 ${
                             Z === Y
-                              ? "border-yzao-yellow-main"
-                              : "border-yzao-black/20"
+                              ? "border-Snakiu-yellow-main"
+                              : "border-Snakiu-black/20"
                           }`,
                           title: `${T} ${Z + 1}`,
                           children: A.jsx("img", {
@@ -15042,12 +15042,12 @@ function Qg() {
         }),
       }),
       A.jsx("p", {
-        className: "mt-10 text-center font-helvetica text-yzao-black/80 italic",
+        className: "mt-10 text-center font-helvetica text-Snakiu-black/80 italic",
         children: c("pfp.note"),
       }),
       A.jsx("div", {
         className:
-          "pointer-events-none absolute lg:bottom-[0vh] bottom-0 left-0 right-0 h-[6px] bg-yzao-black z-10",
+          "pointer-events-none absolute lg:bottom-[0vh] bottom-0 left-0 right-0 h-[6px] bg-Snakiu-black z-10",
       }),
     ],
   });
@@ -15059,7 +15059,7 @@ function Vg() {
     children: A.jsx("div", {
       className: "mx-auto max-w-[1200px] px-4 text-center",
       children: A.jsx("p", {
-        className: "font-helvetica text-yzao-black text-sm sm:text-base",
+        className: "font-helvetica text-Snakiu-black text-sm sm:text-base",
         children: c("footer.text"),
       }),
     }),
@@ -15077,7 +15077,7 @@ function Bn() {
     ],
   });
 }
-const Xf = "/assets/yzao-logo-COjelWJY.png";
+const Xf = "/assets/Snakiu-logo-COjelWJY.png";
 function Kg() {
   const { language: c, setLanguage: o } = _.useContext(Nl),
     [r, f] = _.useState(!1),
@@ -15102,7 +15102,7 @@ function Kg() {
       children: [
         A.jsxs("div", {
           className:
-            "pointer-events-auto flex items-center justify-between rounded-[22px] bg-yzao-black py-2 pl-3 pr-2",
+            "pointer-events-auto flex items-center justify-between rounded-[22px] bg-Snakiu-black py-2 pl-3 pr-2",
           children: [
             A.jsxs("a", {
               href: "#home",
@@ -15110,7 +15110,7 @@ function Kg() {
               children: [
                 A.jsx("img", {
                   src: Xf,
-                  alt: "YZAO",
+                  alt: "Snakiu",
                   className: "h-10 w-10 object-contain",
                 }),
                 A.jsx("span", { className: "sr-only", children: "Home" }),
@@ -15127,7 +15127,7 @@ function Kg() {
                       type: "button",
                       onClick: () => O((B) => !B),
                       className:
-                        "h-10 px-3 rounded-[12px] bg-yzao-yellow-main font-manatee-solid text-yzao-black text-[16px]",
+                        "h-10 px-3 rounded-[12px] bg-Snakiu-yellow-main font-manatee-solid text-Snakiu-black text-[16px]",
                       "aria-haspopup": "listbox",
                       "aria-expanded": b,
                       children: c === "en" ? "EN" : "中文",
@@ -15135,7 +15135,7 @@ function Kg() {
                     b &&
                       A.jsx("div", {
                         className:
-                          "absolute right-0 mt-3 w-28 rounded-[12px] shadow-lg overflow-hidden p-2 bg-yzao-black",
+                          "absolute right-0 mt-3 w-28 rounded-[12px] shadow-lg overflow-hidden p-2 bg-Snakiu-black",
                         children: [
                           { code: "en", label: "EN" },
                           { code: "zh", label: "中文" },
@@ -15148,8 +15148,8 @@ function Kg() {
                               },
                               className: `w-full text-left px-3 py-2 font-manatee-solid ${
                                 c === B.code
-                                  ? "bg-yzao-yellow-main text-yzao-black rounded-lg"
-                                  : "text-yzao-yellow-main hover:bg-yzao-yellow-main/10"
+                                  ? "bg-Snakiu-yellow-main text-Snakiu-black rounded-lg"
+                                  : "text-Snakiu-yellow-main hover:bg-Snakiu-yellow-main/10"
                               }`,
                               children: B.label,
                             },
@@ -15164,20 +15164,20 @@ function Kg() {
                   "aria-expanded": r,
                   onClick: () => f((B) => !B),
                   className:
-                    "relative h-10 w-10 rounded-[12px] bg-yzao-yellow-main",
+                    "relative h-10 w-10 rounded-[12px] bg-Snakiu-yellow-main",
                   children: [
                     A.jsx("span", {
-                      className: `absolute left-1/2 top-1/2 h-[2px] w-6 -translate-x-1/2 -translate-y-1/2 bg-yzao-black transition-transform ${
+                      className: `absolute left-1/2 top-1/2 h-[2px] w-6 -translate-x-1/2 -translate-y-1/2 bg-Snakiu-black transition-transform ${
                         r ? "rotate-45" : "-translate-y-[7px]"
                       }`,
                     }),
                     A.jsx("span", {
-                      className: `absolute left-1/2 top-1/2 h-[2px] w-6 -translate-x-1/2 -translate-y-1/2 bg-yzao-black transition-opacity ${
+                      className: `absolute left-1/2 top-1/2 h-[2px] w-6 -translate-x-1/2 -translate-y-1/2 bg-Snakiu-black transition-opacity ${
                         r ? "opacity-0" : "opacity-100"
                       }`,
                     }),
                     A.jsx("span", {
-                      className: `absolute left-1/2 top-1/2 h-[2px] w-6 -translate-x-1/2 -translate-y-1/2 bg-yzao-black transition-transform ${
+                      className: `absolute left-1/2 top-1/2 h-[2px] w-6 -translate-x-1/2 -translate-y-1/2 bg-Snakiu-black transition-transform ${
                         r ? "-rotate-45" : "translate-y-[7px]"
                       }`,
                     }),
@@ -15195,7 +15195,7 @@ function Kg() {
             A.jsx("div", {
               className: `absolute inset-0 transition-opacity duration-300 ${
                 r ? "opacity-100" : "opacity-0"
-              } bg-yzao-yellow-main`,
+              } bg-Snakiu-yellow-main`,
             }),
             A.jsxs("div", {
               className: `absolute inset-0 flex flex-col items-center justify-between p-6 transition-transform duration-300 ${
@@ -15207,22 +15207,22 @@ function Kg() {
                   children: [
                     A.jsx("img", {
                       src: Xf,
-                      alt: "YZAO",
+                      alt: "Snakiu",
                       className: "h-12 w-12 object-contain",
                     }),
                     A.jsxs("button", {
                       "aria-label": "Close menu",
                       onClick: () => f(!1),
                       className:
-                        "h-10 w-10 rounded-[12px] bg-yzao-yellow-main flex items-center justify-center",
+                        "h-10 w-10 rounded-[12px] bg-Snakiu-yellow-main flex items-center justify-center",
                       children: [
                         A.jsx("span", {
                           className:
-                            "block h-[2px] w-6 bg-yzao-black rotate-45",
+                            "block h-[2px] w-6 bg-Snakiu-black rotate-45",
                         }),
                         A.jsx("span", {
                           className:
-                            "absolute block h-[2px] w-6 bg-yzao-black -rotate-45",
+                            "absolute block h-[2px] w-6 bg-Snakiu-black -rotate-45",
                         }),
                       ],
                     }),
@@ -15236,7 +15236,7 @@ function Kg() {
                       "a",
                       {
                         href: B.route,
-                        className: `text-yzao-yellow-main bg-yzao-black w-full text-center rounded-[18px] px-6 py-4 font-manatee-solid text-[28px] ${
+                        className: `text-Snakiu-yellow-main bg-Snakiu-black w-full text-center rounded-[18px] px-6 py-4 font-manatee-solid text-[28px] ${
                           S(B.route) ? "" : "opacity-90 hover:opacity-100"
                         }`,
                         onClick: () => {
@@ -15272,11 +15272,11 @@ function Kg() {
                       },
                       disabled: !1,
                       className:
-                        "rounded-[18px] bg-yzao-black text-yzao-yellow-main px-6 py-3 text-center ",
+                        "rounded-[18px] bg-Snakiu-black text-Snakiu-yellow-main px-6 py-3 text-center ",
                       title: "Copy contract address",
                       children: A.jsx("span", {
                         className:
-                          "font-manatee-solid text-yzao-yellow-main text-[20px] align-middle",
+                          "font-manatee-solid text-Snakiu-yellow-main text-[20px] align-middle",
                         children: N ? "Copied!" : `ca: ${h}`,
                       }),
                     }),
@@ -15286,11 +15286,11 @@ function Kg() {
                       rel: "noreferrer noopener",
                       "aria-disabled": !1,
                       className:
-                        "rounded-[18px] bg-yzao-black px-5 py-4 font-manatee-solid text-yzao-yellow-main text-[24px] text-center ",
+                        "rounded-[18px] bg-Snakiu-black px-5 py-4 font-manatee-solid text-Snakiu-yellow-main text-[24px] text-center ",
                       onClick: (B) => {
                         f(!1);
                       },
-                      children: "BUY $YZAO",
+                      children: "BUY $Snakiu",
                     }),
                   ],
                 }),
@@ -15344,7 +15344,7 @@ function Jg() {
       children: [
         A.jsxs("div", {
           className:
-            "hidden md:flex pointer-events-auto items-center justify-between rounded-[28px] bg-yzao-black py-2 pl-4 pr-2",
+            "hidden md:flex pointer-events-auto items-center justify-between rounded-[28px] bg-Snakiu-black py-2 pl-4 pr-2",
           children: [
             A.jsx("div", {
               className: "flex items-center gap-6",
@@ -15354,7 +15354,7 @@ function Jg() {
                   {
                     href: H.route,
                     onClick: () => O(H.route),
-                    className: `text-yzao-yellow-main font-manatee-solid text-[22px] leading-none px-2 py-2 transition-opacity ${
+                    className: `text-Snakiu-yellow-main font-manatee-solid text-[22px] leading-none px-2 py-2 transition-opacity ${
                       N(H.route)
                         ? "opacity-100"
                         : "opacity-80 hover:opacity-100"
@@ -15372,13 +15372,13 @@ function Jg() {
                   type: "button",
                   onClick: Y,
                   disabled: !T,
-                  className: `rounded-[18px] bg-yzao-yellow-main px-6 py-3 ${
+                  className: `rounded-[18px] bg-Snakiu-yellow-main px-6 py-3 ${
                     T ? "cursor-pointer" : "opacity-60 cursor-not-allowed"
                   }`,
                   title: "Copy contract address",
                   children: A.jsx("span", {
                     className:
-                      "font-manatee-solid text-yzao-black text-[20px] align-middle",
+                      "font-manatee-solid text-Snakiu-black text-[20px] align-middle",
                     children: d ? r("button.copy.copied") : `ca: ${f}`,
                   }),
                 }),
@@ -15390,7 +15390,7 @@ function Jg() {
                   onClick: (H) => {
                     T || H.preventDefault();
                   },
-                  className: `rounded-[18px] bg-yzao-yellow-main px-5 py-3 font-manatee-solid text-yzao-black text-[22px] ${
+                  className: `rounded-[18px] bg-Snakiu-yellow-main px-5 py-3 font-manatee-solid text-Snakiu-black text-[22px] ${
                     T ? "" : "opacity-60 cursor-not-allowed"
                   }`,
                   children: r("button.buy"),
@@ -15403,14 +15403,14 @@ function Jg() {
                       type: "button",
                       onClick: () => h((H) => !H),
                       className:
-                        "rounded-[18px] bg-yzao-yellow-main px-4 py-3 font-manatee-solid text-yzao-black text-[18px]",
+                        "rounded-[18px] bg-Snakiu-yellow-main px-4 py-3 font-manatee-solid text-Snakiu-black text-[18px]",
                       title: "Switch language",
                       children: c === "en" ? "EN" : "中文",
                     }),
                     S &&
                       A.jsx("div", {
                         className:
-                          "absolute right-0 mt-4 w-36 rounded-[12px] shadow-lg overflow-hidden p-2 bg-yzao-black",
+                          "absolute right-0 mt-4 w-36 rounded-[12px] shadow-lg overflow-hidden p-2 bg-Snakiu-black",
                         children: [
                           { code: "en", label: "EN" },
                           { code: "zh", label: "中文" },
@@ -15423,8 +15423,8 @@ function Jg() {
                               },
                               className: `w-full text-left px-4 py-2 font-manatee-solid ${
                                 c === H.code
-                                  ? "bg-yzao-yellow-main rounded-xl text-yzao-black"
-                                  : "text-yzao-yellow-main hover:bg-yzao-yellow-main/10"
+                                  ? "bg-Snakiu-yellow-main rounded-xl text-Snakiu-black"
+                                  : "text-Snakiu-yellow-main hover:bg-Snakiu-yellow-main/10"
                               }`,
                               children: H.label,
                             },
@@ -15494,26 +15494,26 @@ function kg() {
     r
       ? A.jsx("div", {
           className:
-            "fixed inset-0 z-[100] flex items-center justify-center bg-yzao-yellow-main",
+            "fixed inset-0 z-[100] flex items-center justify-center bg-Snakiu-yellow-main",
           children: A.jsxs("div", {
             className: "flex flex-col items-center gap-4",
             children: [
               A.jsx("img", {
                 src: Xf,
-                alt: "YZAO",
+                alt: "Snakiu",
                 className: "h-28 w-28 object-contain",
               }),
               A.jsx("div", {
                 className:
-                  "w-56 h-3 rounded-full bg-yzao-black/20 overflow-hidden",
+                  "w-56 h-3 rounded-full bg-Snakiu-black/20 overflow-hidden",
                 children: A.jsx("div", {
                   className:
-                    "h-full bg-yzao-black transition-[width] duration-150",
+                    "h-full bg-Snakiu-black transition-[width] duration-150",
                   style: { width: `${c}%` },
                 }),
               }),
               A.jsxs("div", {
-                className: "font-manatee-solid text-yzao-black text-xl",
+                className: "font-manatee-solid text-Snakiu-black text-xl",
                 children: [c, "%"],
               }),
             ],
@@ -15532,7 +15532,7 @@ function Fg() {
         children: A.jsxs(e0, {
           children: [
             A.jsx(Ba, { path: "/", element: A.jsx(Bn, {}) }),
-            A.jsx(Ba, { path: "/who-is-yzao", element: A.jsx(Bn, {}) }),
+            A.jsx(Ba, { path: "/who-is-Snakiu", element: A.jsx(Bn, {}) }),
             A.jsx(Ba, { path: "/gallery", element: A.jsx(Bn, {}) }),
             A.jsx(Ba, { path: "/pfp-generator", element: A.jsx(Bn, {}) }),
             A.jsx(Ba, { path: "*", element: A.jsx(Bn, {}) }),
